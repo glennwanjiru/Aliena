@@ -1,0 +1,4 @@
+repository "Aliena@Stained_Coffee_Cup@cloud"
+  path "/"
+    br "/main"
+    co "/main"
