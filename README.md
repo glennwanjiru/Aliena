@@ -1,5 +1,6 @@
 # Aliena
- Small game about aliena...a girl whose purpose is to fight aliens who have overtaken the world
+** Small game about aliena...a girl whose purpose is to fight aliens who have overtaken the world**
+play it on itchio https://glennnjoroge.itch.io/aliena
 ![image](https://github.com/user-attachments/assets/75a0575a-78d0-46a1-81ee-6b4bda1e9e0e)
 
 ![image](https://github.com/user-attachments/assets/7093720a-ff53-4ad6-80b9-840c09d2a072)
